@@ -25,6 +25,7 @@ Para rodar o código no **Wokwi**, siga os seguintes passos:
 
 ## Dependências
 - **VSCode**
+- **Placa BitdogLab**
 - **Extensão Wokwi** (caso utilize a simulação)
 
 ## Apresentação do Projeto
